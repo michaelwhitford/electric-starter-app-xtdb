@@ -3,7 +3,7 @@
 For dev, start the xtdb standalone server on localhost:3030 per xtdb.edn
 
 ```
-$ clojure -M -m xtdb.main
+$ clojure -A:dev -M -m xtdb.main
 ```
 
 In another terminal
