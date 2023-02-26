@@ -11,3 +11,5 @@ report.html
 *.iml
 .lsp
 .clj-kondo
+.calva
+data/
